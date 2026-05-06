@@ -22,3 +22,24 @@ Bot Telegram pintar berbasis Python yang dirancang untuk membantu para pemburu a
    ```bash
    git clone [https://github.com/nixmixdev/nixmixbot.git](https://github.com/nixmixdev/nixmixbot.git)
    cd nixmixbot
+2. Install Dependensi
+   ```bash 
+   pip install pyTelegramBotAPI
+
+3. Konfigurasi
+   Buka file nixmix_bot.py dan masukkan Token bot Telegram Anda:
+   ```bash 
+   TOKEN = 'YOUR_BOT_TOKEN_HERE'
+   ADMIN_IDS = [YOUR_ID_HERE]
+
+4. Jalankan Bot
+   ```bash
+   python nixmix_bot.py
+
+
+## 📝 Perintah Bot
+​/add [link] | [YYYY-MM-DD HH:MM] - Tambah garapan baru.
+​/list - Lihat daftar garapan aktif (Terurut berdasarkan deadline).
+​/clear - Membersihkan history chat bot.
+​Developed with ❤️ by NixMix
+

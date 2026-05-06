@@ -39,11 +39,9 @@ Bot Telegram pintar berbasis Python yang dirancang untuk membantu para pemburu a
 
 ## 📝 Perintah Bot
 
-| Perintah | Fungsi | Contoh |
-| :--- | :--- | :--- |
-| `/add` | Menambah data garapan baru | `/add link.com \ | 2026-06-01 10:00` |
-| `/list` | Melihat semua garapan aktif | `/list` |
-| `/clear` | Menghapus history chat bot | `/clear` |
+* **/add [link] | [YYYY-MM-DD HH:MM]** - Tambah garapan baru.
+* **/list** - Lihat daftar garapan aktif (Terurut berdasarkan deadline).
+* **/clear** - Membersihkan history chat bot secara instan.
 
 ---
 Developed with ❤️ by **[NixMix](https://github.com/nixmixdev)**

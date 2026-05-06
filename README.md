@@ -1,6 +1,5 @@
-# 🚀 NixMix Omni-Bot (Blockchain & Task Tracker)
-
-Bot Telegram pintar berbasis Python yang dirancang untuk membantu para pemburu airdrop dan developer dalam mengelola link garapan, memantau transaksi blockchain, dan mengatur deadline secara otomatis.
+# 🚀 NixMix Omni-Bot 
+Bot Telegram pintar berbasis Python yang dirancang untuk membantu para pemburu airdrop dan developer dalam mengelola link garapan, deadline secara otomatis.
 
 ## 🌟 Fitur Utama
 
@@ -8,7 +7,6 @@ Bot Telegram pintar berbasis Python yang dirancang untuk membantu para pemburu a
 - **Anti-Duplikat**: Sistem secara otomatis menolak input link yang sudah terdaftar dalam database.
 - **Auto-Clean Expired**: Secara otomatis membersihkan link yang sudah melewati batas waktu saat menampilkan daftar.
 - **Silent Message Cleaner**: Perintah `/clear` untuk membersihkan chat log secara instan tanpa meninggalkan pesan notifikasi yang menumpuk.
-- **Multi-Chain Support**: Terintegrasi dengan network BSC, Polygon, Ethereum, dan Base (NixMix Omni-Bot Core).
 
 ## 🛠️ Teknologi yang Digunakan
 

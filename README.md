@@ -1,4 +1,4 @@
-# 🚀 NixMix Omni-Bot 
+# 🚀 NixMix Bot
 Bot Telegram pintar berbasis Python yang dirancang untuk membantu para pemburu airdrop dan developer dalam mengelola link garapan, deadline secara otomatis.
 
 ## 🌟 Fitur Utama
